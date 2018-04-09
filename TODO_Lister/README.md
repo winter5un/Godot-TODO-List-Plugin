@@ -12,7 +12,7 @@ Only .gd files are checked.
 
 Installation:
 
-1. Add to addons folder
+1. Download  TODO_lister folder and add it to addons folder. (Create the addons folder in res:\\ if it doesn't exist)
 
 2. Activate in Project settings
 
