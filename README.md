@@ -11,8 +11,9 @@ The done button searches for "TODO-DONE:"
 Only .gd files are checked.
 
 Installation:
+
 1. Add to addons folder
 
-2.Activate in Project settings
+2. Activate in Project settings
 
-3.??Profit???
+3. ??Profit???
